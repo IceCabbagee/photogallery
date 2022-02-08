@@ -3,6 +3,7 @@
 // it is always included at the end of the template file 
 // to close the tags properly
 ?>
-
+<footer>
+<p>&copy;Antonio Fatica </p></footer>
 </body>
 </html>

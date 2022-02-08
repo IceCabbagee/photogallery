@@ -28,6 +28,13 @@ COLOR PALETTE WITH CSS VARIABLES
    font-size: 2.5em;
    text-align: center;
  }
+ footer {
+   border: #444444;
+   padding: 30px;
+   margin: 30px;
+   color: rgb(182, 216, 131);
+   text-align: center;
+ }
 
 
 /* --------------------------------------
